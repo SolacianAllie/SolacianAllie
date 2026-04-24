@@ -1,7 +1,9 @@
 <div align="center">
-  <h1 style="font-size: 2.5em;">Hello! Welcome to my Github!</h1>
-  
-  <p>Check out my Stuffs</p>
+  <h1 style="font-size: 5em;">Hello! Welcome to my Github!</h1>
+  <h2>About Me</h2>
+  <p>Hi! I am alllie, Im just a girl learning her way in the world, this is where i keep code i make, or just things relating to CVR i want to give out to the world. I also have my own website where i will showcase my things too. Just don't judge it too much, its still being worked on.</p>
+  <a href="https://cutemoth.uk">Cutemoth.uk</a>
+  <h2>Check out my Stuffs</h2>
   
   [![Allie's GitHub stats](https://github-readme-stats.vercel.app/api?username=SolacianAllie&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
   
