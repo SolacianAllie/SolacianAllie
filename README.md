@@ -16,9 +16,9 @@
   [![ChilloutVR-Base-Animator-Patch-Replacer](https://github-readme-stats.vercel.app/api/pin/?username=SolacianAllie&repo=ChilloutVR-Base-Animator-Patch-Replacer&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
   
   [![Shaders](https://github-readme-stats.vercel.app/api/pin/?username=SolacianAllie&repo=Shaders&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-  
+  <h2>Visits</h2>
+  <img alt="Visit Counter" src="https://count.getloli.com/@SolacianAllieGithubVisits?name=SolacianAllieGithubVisits&theme=booru-lisu&padding=1&offset=0&align=bottom&scale=1&pixelated=1&darkmode=auto"/>
   <h2>Contribution Graph</h2>
-  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
